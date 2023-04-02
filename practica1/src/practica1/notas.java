@@ -57,7 +57,7 @@ public class notas {
 	public void comprobarcion() {
 
 		if (uf1 > 10) {
-			System.out.println(" nota1 mal introducida");
+			System.out.println(" La nota ha sido introducida de manera incorrecta");
 
 		} else {
 			System.out.println(" nota1 correcta");
