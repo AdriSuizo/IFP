@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<project default="javadoc" name= "Javadoc UF2">
+    <target name="javadoc">
+        <javadoc access="public" author="true" classpath="." destdir="doc" doctitle="JavaDoc" nodeprecated="false" nodeprecatedlist="false" noindex="false" nonavbar="false" notree="false" packagenames="practica1" source="17" sourcepath="src" splitindex="true" use="true" version="true" maxmemory= "512m">
+            <link href="file:/C:/Users/Adrian/eclipse-workspace/practica1/doc/"/>
+        </javadoc>
+    </target>
+</project>
