@@ -54,7 +54,7 @@ public class notas {
 	 * Comprueba que las notas se hayan ingresado correctamente.
 	 */
 
-	public void comprobarcion() {
+	public void comprobacion() {
 
 		if (uf1 > 10) {
 			System.out.println(" La nota ha sido introducida de manera incorrecta");
@@ -138,7 +138,7 @@ public class notas {
 
 		fc.IngresaNotas();
 
-		fc.comprobarcion();
+		fc.comprobacion();
 
 		fc.Calculonotas();
 
